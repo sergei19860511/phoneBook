@@ -1,0 +1,95 @@
+Time : 23:35:37
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'identity' at row 1
+Raw SQL : INSERT INTO account(full_name,uniq_id,network,identity,f_name,l_name) VALUES(?,?,?,?,?,?)
+
+Time : 23:35:30
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'identity' at row 1
+Raw SQL : INSERT INTO account(full_name,uniq_id,network,identity,f_name,l_name) VALUES(?,?,?,?,?,?)
+
+Time : 23:35:08
+SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'identity' at row 1
+Raw SQL : INSERT INTO account(full_name,uniq_id,network,identity,f_name,l_name) VALUES(?,?,?,?,?,?)
+
+Time : 15:09:20
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 15:08:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 15:03:46
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 14:38:31
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 14:12:11
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 14:05:48
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 14:04:33
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 14:04:33
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:43:25
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:40:04
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 13:40:03
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:53:48
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:53:42
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:37:39
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:36:55
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:36:44
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:36:41
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:36:38
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 11:36:37
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:32:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:23:30
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:23:27
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:14:02
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:14:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 10:14:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:12:00
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 07:00:16
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 07:00:06
+SQLSTATE[HY000] [2002] Connection refused

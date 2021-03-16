@@ -1,0 +1,15 @@
+Time : 07:01:24
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'CURRENT_TIMESTAMP' for column 'datetime' at row 1
+Raw SQL : INSERT INTO donat (user_id,kassa,ammount,datetime) VALUES(?,?,?,?)
+
+Time : 06:54:04
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'CURRENT_TIMESTAMP' for column 'datetime' at row 1
+Raw SQL : INSERT INTO donat (user_id,kassa,ammount,datetime) VALUES(?,?,?,?)
+
+Time : 06:52:51
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'CURRENT_TIMESTAMP' for column 'datetime' at row 1
+Raw SQL : INSERT INTO donat (user_id,kassa,ammount,datetime) VALUES(?,?,?,?)
+
+Time : 06:51:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+ ? WHERE id = ?' at line 1
+Raw SQL : UPDATE account SET balance + ? WHERE id = ?

@@ -1,0 +1,5 @@
+Time : 17:09:15
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 17:05:45
+SQLSTATE[HY000] [2002] Connection timed out

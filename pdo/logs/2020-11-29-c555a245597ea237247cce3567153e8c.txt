@@ -1,0 +1,7 @@
+Time : 00:52:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''technique' WHERE 'id_technique'=?' at line 1
+Raw SQL : SELECT 'name_technique' FROM 'technique' WHERE 'id_technique'=?
+
+Time : 00:52:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+Raw SQL : SELECT name_technique FROM technique WHERE id=?

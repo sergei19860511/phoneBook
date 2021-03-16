@@ -1,0 +1,2 @@
+Time : 22:29:53
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'188.233.4.135' (using password: YES)
